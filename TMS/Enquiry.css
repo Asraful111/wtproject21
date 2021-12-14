@@ -1,0 +1,38 @@
+.formpage {
+    padding-left: 30%;
+    
+}
+h1 {
+    padding-left: 13%;
+}
+
+form#formaction {
+    width: 40%;
+}
+
+.formfield input, #comment {
+    display: block;
+    width: 100%;
+    padding: 6px 12px;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #495057;
+    background-image: none;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+    margin-bottom: 0;
+    max-width: 100%;
+}
+.submitbutton{
+    padding-top: 10px;
+}
+.submitbutton input{
+    color: #fff;
+    background-color: #0080ff;
+    border-color: #868e96;
+    border: 1px solid black;
+    padding: 6px 12px;
+    font-size: 22px;
+    border-radius: 6px;
+}

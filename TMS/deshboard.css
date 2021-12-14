@@ -1,0 +1,31 @@
+.dashboard_com_back{
+    width: 96%;
+    display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 2%;
+}
+.four-grid{
+    text-align: center;
+}
+.four-agileits,.four-agileinfo,.four-w3ls,.four-wthree,.four-wfive{
+    border: 1px solid rgb(0,0,0,0.2);
+    padding: 50px;
+    margin: 5px;
+}
+.four-agileits{
+    background: green;
+    color: #fff;
+}
+.four-agileinfo{
+    background: blue;
+    color: #fff;
+}
+.four-w3ls{
+    background: red;
+    color: #fff;
+}
+.four-wthree{
+    background: orange;
+    color: #fff;
+}

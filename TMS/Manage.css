@@ -1,0 +1,20 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  th {
+    background-color: lightblue;
+    text-align: center !important;
+    color: black;
+    padding: 8px;
+  }
+  
+  td {
+      background-color:lightgreen;
+    text-align: center !important;
+    padding: 8px;
+    color:black;
+    border: 1px solid #fff;
+  }
+  
